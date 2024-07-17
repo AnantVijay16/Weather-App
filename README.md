@@ -37,3 +37,8 @@ Users can easily search for weather conditions by entering a location name in th
 Upon granting location access, users can receive automatic updates for their current location.
 The app’s design ensures compatibility across various devices, providing a seamless experience whether accessed on a desktop, tablet, or smartphone.
 This Weather App project combines the power of modern web development technologies and APIs to deliver an intuitive and reliable weather information service.
+
+Developer
+---------
+
+The Password Generator was developed by [Anant Vijay](https://github.com/AnantVijay16).
